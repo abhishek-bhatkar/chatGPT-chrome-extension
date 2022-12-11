@@ -1,0 +1,1 @@
+# chatGPT-chrome-extension
